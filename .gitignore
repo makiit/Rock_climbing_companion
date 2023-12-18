@@ -2,3 +2,5 @@
 __pycache__/*
 .DS_Store
 ./datasets/*
+/test_videos/*
+best-2.mlpackage/*
